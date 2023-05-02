@@ -7,7 +7,7 @@
         <div class="carousel-item active">
           <div class="carousel-container">
             <h2 class="animate__animated animate__fadeInDown" style="font-family: cursive;">Invest with  <span>Confidence</span></h2>
-            <p class="animate__animated animate__fadeInUp" style="font-family: Montserrat;">Invest with confidence knowing that your assets are being managed by a team of experts. Our platform provides access to a wide range of investment opportunities, from stocks and bonds to alternative assets like cryptocurrencies and real estate. 
+            <p class="animate__animated animate__fadeInUp text-sm" style="font-family: Montserrat;">Invest with confidence knowing that your assets are being managed by a team of experts. Our platform provides access to a wide range of investment opportunities, from stocks and bonds to alternative assets like cryptocurrencies and real estate. 
             
             </p>
             <a href="?a=account" class="btn-get-started animate__animated
